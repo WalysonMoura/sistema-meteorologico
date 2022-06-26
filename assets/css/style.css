@@ -324,6 +324,11 @@ a {
     align-items: center;
     justify-content: center;
   }
+  .c-main_title {
+
+  font-size: 2rem;
+
+}
   .c-main__cards {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   }
