@@ -200,8 +200,9 @@ a {
   padding-left: 1rem;
 }
 .c-main_title {
-  font-family: "Outfit", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 3rem;
+  font-weight: 500;
 }
 
 .c-main_describe {
